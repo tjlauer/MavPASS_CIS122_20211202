@@ -1,6 +1,8 @@
 # MavPASS_CIS122_20211202
 This programming task is taken from `Test 3` given at `MNSU, Mankato` to `CIS 122` on `December 01, 2021`.
 
+We only got through `Part 1.3` during the session, but feel free to practice with this on your own!
+
 <br><hr>
 
 ## Part 1 (20 minutes)
