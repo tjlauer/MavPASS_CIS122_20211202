@@ -11,7 +11,7 @@ Create a `Pet` class with the following characteristics:
 <br>
 
 ### Part 1.2
-Creat an Animal `Shelter` class with the following characteristics:
+Create an Animal `Shelter` class with the following characteristics:
 - Each `Shelter` has a `List` of `Pet` containing a bunch of cats and dogs available for adoption.
 - There should be a method `AddToShelter()` which adds a `Pet` to the `List` of `Pet` for the `Shelter`.
 - There should be a method `SearchBySpecies()` which returns a `List` of `Pet` of the appropriate species (i.e. `“dog”` or `“cat”`).
@@ -43,7 +43,7 @@ Add the following to the `Shelter` class...
 <br>
 
 ### Part 2.2
-Creat a `Customer` class with the following characteristics:
+Create a `Customer` class with the following characteristics:
 - A `Customer` has a `customerID`, `firstName`, `lastName`, and `email`.
 - A `Customer` can have multiple `Pet` objects.
 - Create a method `Adopt()`, that allows a `Customer` to add a new `Pet` to its `List` of `Pet`.
